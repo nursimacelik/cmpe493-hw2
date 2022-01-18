@@ -1,4 +1,4 @@
-# CMPE 493 Introduction to Information Retrieval Homework 2
+# Introduction to Information Retrieval - Homework 2
 
 Program to get a word from the user and list all the document ids that contains the query word within the Reuters dataset. Put a star at the end to do prefix search.
 
